@@ -2,7 +2,7 @@
 This is a basic ChatRoom project written in Java language, by me, in order to learn socket programming and using Java's multithreading capabilites, along with creating a working minimal graphical user interface with help of Swing API.
 
 ## How to run
-- Compile both the server and client packags with `javac`.
+- Compile both the server and client packages with `javac`.
 - Run the server and instances of client with JVM.
 
 ## Features
